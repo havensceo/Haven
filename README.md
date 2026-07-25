@@ -1,2 +1,1 @@
-# Haven
-Call code for the Haven repository app okay public leave it public it says
+Haven is a privacy first safety and family coordination platform it helps individuals families and small teams stay connected with features like location sharing emergency SOS alerts geofence safe zones pet tracking and secure messaging our focus is simple give people peace of mind and practical tools when it matters most
